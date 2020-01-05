@@ -46,7 +46,7 @@ password : password
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+run on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
 ### Prerequisites
@@ -61,12 +61,13 @@ What things you need to install the software
 ## Running the tests
 
 Run your web server solution stack package ex : xampp and run mysql
-run this commande into enso file
+
+run this commande into absence_enso file
 
 ``` 
 yarn run serve 
 ```
-run this commande into enso -> client file
+run this commande into absence_enso -> client file
 
 ```
 php artisan serve
