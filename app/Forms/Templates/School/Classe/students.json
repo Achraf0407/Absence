@@ -1,0 +1,57 @@
+{
+    "routePrefix": "school.classe.students",
+    "sections": [{
+        "columns": 2,
+        "fields": [
+            {
+                "label": "First name",
+                "name": "firstname",
+                "value": null,
+                "meta": {
+                    "custom": false,
+                    "type": "input",
+                    "content": "text",
+                    "disabled": false
+                }
+            },
+            {
+                "label": "Last name",
+                "name": "lastname",
+                "value": null,
+                "meta": {
+                    "custom": false,
+                    "type": "input",
+                    "content": "text",
+                    "disabled": false
+                }
+            }
+        ]
+    },
+    {
+        "columns": 2,
+        "fields": [
+            {
+                "label": "Subject",
+                "name": "subject",
+                "value": null,
+                "meta": {
+                    "custom": false,
+                    "type": "input",
+                    "content": "text",
+                    "disabled": false
+                }
+            },
+            {
+                "label": "Prof",
+                "name": "prof",
+                "value": null,
+                "meta": {
+                    "custom": false,
+                    "type": "input",
+                    "content": "text",
+                    "disabled": false
+                }
+            }
+        ]
+    }]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Students",
+    "routePrefix": "school.classe.students",
+    "crtNo": true,
+    "buttons": ["excel", "create", "show", "edit", "destroy"],
+    "columns": [{
+        "label": "Id",
+        "name": "id",
+        "data": "students.id",
+        "meta": ["searchable", "sortable"]
+    },{
+        "label": "first name",
+        "name": "firstname",
+        "data": "students.firstname",
+        "meta": [
+            "searchable",
+            "sortable"
+        ]
+    },
+    {
+        "label": "last name",
+        "name": "lastname",
+        "data": "students.lastname",
+        "meta": [
+            "searchable",
+            "sortable"
+        ]
+    },
+    {
+        "label": "subject",
+        "name": "subject",
+        "data": "students.subject",
+        "meta": [
+            "searchable",
+            "sortable"
+        ]
+    },{
+        "label": "prof",
+        "name": "prof",
+        "data": "students.prof",
+        "meta": [
+            "searchable",
+            "sortable" 
+        ]
+            }]
+}
