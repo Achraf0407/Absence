@@ -23,12 +23,12 @@ What things you need to install the software
 ## Running the tests
 
 * Run your web server solution stack package ex : xampp and run mysql
-* run this commande into enso file
+* run this commande 
 
 ``` 
 yarn run serve 
 ```
-run this commande into enso -> client file
+run this commande into client file
 
 ```
 php artisan serve
