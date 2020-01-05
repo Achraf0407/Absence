@@ -1,7 +1,5 @@
 [![Watch the demo](https://laravel-enso.github.io/enso/screenshots/bulma_cap000_thumb.png)](https://laravel-enso.github.io/enso/videos/bulma_quick_walkthrough.webm)
-# Project Title
-
-Gestion d'absence 
+# Gestion d'absence 
 
 ## Created by 
  * Achraf CHEMCHAQ
