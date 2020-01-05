@@ -7,14 +7,6 @@ Gestion d'absence
  * Achraf CHEMCHAQ
  * Anass TAOUSSI
  * Anouar ABD REZZAQ
-# Project Title
-
-Gestion d'absence 
-
-## Created by 
- Achraf CHEMCHAQ
- Anass TAOUSSI
- Anouar ABD REZZAQ
 
 ## Getting Started
 
