@@ -17,15 +17,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software
 	
- web server solution stack packages
- IDE 
- PHP & PHP extensions
- Yarn 
+ * web server solution stack packages
+ * IDE 
+ * PHP & PHP extensions
+ * Yarn 
  
 ## Running the tests
 
-Run your web server solution stack package ex : xampp and run mysql
-run this commande into enso file
+* Run your web server solution stack package ex : xampp and run mysql
+* run this commande into enso file
 
 ``` 
 yarn run serve 
@@ -35,48 +35,12 @@ run this commande into enso -> client file
 ```
 php artisan serve
 ```
-Go to the Local host link in my case is :   http://localhost:8080/
-Log in with : admin@laravel-enso.com
-password : password
+* Go to the Local host link in my case is :   http://localhost:8080/
+* Log in with : admin@laravel-enso.com
+* password : password
 
 ## Built With
 * [Laravel enso ](https://docs.laravel-enso.com/) -Full featured Single Page Application boilerplate 
 
-
-
-## Getting Started
-
-run on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
-### Prerequisites
-
-What things you need to install the software
-	
- web server solution stack packages
- IDE 
- PHP & PHP extensions
- Yarn 
- 
-## Running the tests
-
-Run your web server solution stack package ex : xampp and run mysql
-
-run this commande into absence_enso file
-
-``` 
-yarn run serve 
-```
-run this commande into absence_enso -> client file
-
-```
-php artisan serve
-```
-Go to the Local host link in my case is :   http://localhost:8080/
-Log in with : admin@laravel-enso.com
-password : password
-
-## Built With
-* [Laravel enso ](https://docs.laravel-enso.com/) -Full featured Single Page Application boilerplate 
 
 
